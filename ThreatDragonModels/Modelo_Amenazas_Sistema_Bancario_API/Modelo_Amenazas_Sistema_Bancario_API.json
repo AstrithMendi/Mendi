@@ -1,0 +1,27 @@
+{
+  "version": "2.6.1-RC1",
+  "summary": {
+    "title": "Modelo_Amenazas_Sistema_Bancario_API",
+    "owner": "AstrithMendi",
+    "description": "Sistema bancario en línea que permite a los clientes realizar operaciones como consultas de saldo, transferencias entre cuentas y pagos de servicios a través de canales web y móvil.\n\nLa API Bancaria es el componente encargado de exponer los servicios de transacción de forma segura a las aplicaciones internas y canales digitales, comunicándose con la Base de Datos Bancaria donde se almacena la información sensible de clientes y movimientos financieros.\n\nEl sistema involucra actores como Clientes y Administradores, y maneja datos críticos como credenciales, saldos, historiales de transacciones y tokens de autenticación.",
+    "id": 0
+  },
+  "detail": {
+    "contributors": [],
+    "diagrams": [
+      {
+        "id": 0,
+        "title": "Diagrama_API_Sistema_Bancario",
+        "diagramType": "STRIDE",
+        "placeholder": "Descripción de nuevo diagrama STRIDE",
+        "thumbnail": "./public/content/images/thumbnail.stride.jpg",
+        "version": "2.6.1-RC1",
+        "cells": [],
+        "description": "Diagrama de arquitectura de la API de transacciones del sistema bancario en línea."
+      }
+    ],
+    "diagramTop": 1,
+    "reviewer": "Mensualmente",
+    "threatTop": 0
+  }
+}
